@@ -1,0 +1,17 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// AdminLTE
+@import "~admin-lte/dist/css/AdminLTE.css";
+@import "~admin-lte/dist/css/skins/_all-skins.css";
+
+//Font-awesome
+$fa-font-path: "../fonts/" !default;
+@import "~font-awesome/scss/font-awesome"
